@@ -1,0 +1,26 @@
+% Propedéutico 2020 PCIM001-MAT
+% Richard Jacinto Márquez Contreras
+% Agosto 11, 2020
+
+# Primer ejercicio
+
+- Se requiere hacer las operaciones indicadas:
+
+$3x - 2(4x-5)^2$
+
+$3x - 2(\overbrace{16x^2-40x+25}^{(a+b)^2 = a^2+2ab+b^2})$
+
+$3x \overbrace{- 32x^2+80x-50}^{\text{se multiplica por }-2}$
+
+$- 32x^2+83x-50$ (Esta es la solución)
+
+# Primer ejercicio
+
+- En realidad el ejercicio es probablemente saber quien es $x$
+
+$3x - 2(4x-5)^2 = -32$
+
+# El origen de los números
+
+- Los números se inventaron para poder resolver problemas que se plantearon. 
+- Surgieron de la necesidad
