@@ -6,21 +6,61 @@
 
 - Se requiere hacer las operaciones indicadas:
 
-$3x - 2(4x-5)^2$
+$$3x - 2(4x-5)^2$$
 
-$3x - 2(\overbrace{16x^2-40x+25}^{(a+b)^2 = a^2+2ab+b^2})$
+$$3x - 2(\overbrace{16x^2-40x+25}^{(a+b)^2 = a^2+2ab+b^2})$$
 
-$3x \overbrace{- 32x^2+80x-50}^{\text{se multiplica por }-2}$
+$$3x \overbrace{- 32x^2+80x-50}^{\text{se multiplica por }-2}$$
 
-$- 32x^2+83x-50$ (Esta es la solución)
+$$- 32x^2+83x-50 \text{  \color{blue}(Esta es la solución)}$$ 
 
 # Primer ejercicio
 
-- En realidad el ejercicio es probablemente saber quien es $x$
+- En realidad el ejercicio es probablemente saber quién es $x$ para que la siguiente *igualdad* se cumpla:
 
-$3x - 2(4x-5)^2 = -32$
+$$3x - 2(4x-5)^2 = -32$$
+
+Y aquí llegamos al concepto de **ecuación**.
 
 # El origen de los números
 
 - Los números se inventaron para poder resolver problemas que se plantearon. 
-- Surgieron de la necesidad
+- Surgieron de la *necesidad*.
+- La manera más simple de modelar un problema es usando una ecuación.
+- Las ecuaciones se caracterizan por presentar una **igualdad** '$=$'
+
+# Trabajo con los números
+
+A través de la historia de la Humanidad **Nuevos números aparecen para resolver Nuevos problemas**
+
+Los chinos trataron de resolver ecuaciones  
+
+Ecuación | Solución
+---------|--------
+$x+5 = 2$ | les dio $x = -3$ (crearon números negativos)
+
+Los egipcios 
+
+Ecuación | Solución
+---------|--------
+$3x = 5$ | resultó en $x = \frac 53$ (crearon números racionales)
+
+Racionales = fracciones, números decimales, $\mathbb{Q}$
+
+# Trabajo con los números
+
+Los griegos resolvieron problemas como este (para obtener, por ejemplo, distancia entre dos puntos)
+
+Ecuación | Solución
+---------|--------
+$x^2 = 7$ | da $x = \sqrt{7}$ (crearon números irracionales)
+
+Los irracionales **no** se prueden escribir como una fracción ni como un número decimal periódico, $\frac 53 = 1.666\ldots$.
+
+Los irracionales se pueden aproximar. **Pregunta:** ¿Cuál es la aproximación de $\sqrt{7}$ con dos decimales?
+
+## Números reales
+Racionales $\mathbb{Q}$ e irracionales $\mathbb{I}$ nos dieron los números reales $\mathbb{R}$. 
+
+
+
